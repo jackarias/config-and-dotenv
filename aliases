@@ -1,0 +1,6 @@
+alias bat="batcat"
+export AWS_REGION=us-east-1
+
+alias k="kubecolor"
+alias ks="kubeselect"
+alias kns="k config set-context --current --namespace "
