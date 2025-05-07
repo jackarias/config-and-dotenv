@@ -1,3 +1,5 @@
+format = '$directory$character$all'
+
 [bun]
 format = "via [$symbol]($style)"
 
