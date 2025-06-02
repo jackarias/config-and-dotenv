@@ -2,7 +2,7 @@ theme = Dracula
 
 font-family = "FiraCode Nerd Font Mono Ret"
 
-background-opacity = 0.98
+background-opacity = 0.96
 
 keybind = f11=toggle_fullscreen
 keybind = f12=toggle_window_decorations
