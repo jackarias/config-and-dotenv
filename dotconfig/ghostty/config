@@ -3,6 +3,7 @@ theme = Dracula
 font-family = "FiraCode Nerd Font Mono Ret"
 
 background-opacity = 0.95
+font-size = 18
 
 ## Unbind hardcoded physical keys that break in dvorak
 keybind = super+equal=unbind
